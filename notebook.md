@@ -55,3 +55,4 @@ plugins: [
       }
 ```
 12. 接下来做一个美化webpack样式的功能,通过插件`pnpm add friendly-errors-webpack-plugin`
+13. cdn引入 会先加载cdn,比较考验网速,网速慢会导致网页的白屏事件比较长,优点是体积小
